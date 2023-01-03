@@ -1,2 +1,2 @@
-# Resume-Sample-Project-Using-HTML-CSS-and-JS
-this is dummy resume project developed using HTML, CSS and can be enhanced using JS
+# CodingNinjas-Resume-Project
+ Resume Project in HTML/CSS
